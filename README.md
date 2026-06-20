@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech Computer Science student (2026) focused on Java, Data Structures, and backend fundamentals. <br>I enjoy solving problems, writing clean code, and building practical projects. <br>Currently seeking software development internships to apply and sharpen my skills.
+B.Tech Computer Science student (2026) focused on Java, Data Structures & Algorithms and backend fundamentals. <br>I enjoy solving problems, writing clean code, and building practical projects. <br>Currently seeking software development internships to apply and sharpen my skills.
 
 
 ## 🌐 Socials:
